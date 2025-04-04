@@ -1,18 +1,5 @@
-[![github-follow](https://img.shields.io/github/followers/Prajwal100?label=Follow&logoColor=purple&style=social)](https://github.com/Prajwal100)
-[![GitHub stars](https://img.shields.io/github/stars/Prajwal100/Complete-Ecommerce-in-laravel-10.svg?style=social)](https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Prajwal100/Complete-Ecommerce-in-laravel-10.svg)](https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10/network)
-[![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-yellow?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/prajwalrai/support-my-work-complete-laravel-e-commerce-project)
-
 # 🚀 Complete E-commerce Website in Laravel 10
-A full-fledged **eCommerce solution** built on **Laravel 10**, featuring a modern UI, powerful admin panel, seamless payment integration, and a user-friendly shopping experience.
-
----
-
-## 🎥 Live Demo & Tutorials
-🔹 **Setup Video:** [Watch Here](https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s)
-🔹 **Demo Video:** [Live Demo](https://youtu.be/RxyrQQ3oTIE?si=Iq25IuJ8_eB5OJpC)
-🔹 **Complete Tutorial Series:** [Watch Now](https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s)
+A full-fledged **eCommerce solution** built on **Laravel 10**, featuring a modern UI, powerful admin panel, seamless payment integration, and a user-friendly shopping experience
 
 ---
 
@@ -47,7 +34,7 @@ A full-fledged **eCommerce solution** built on **Laravel 10**, featuring a moder
 
 ### 🔹 **Step 1: Clone the Repository**
 ```sh
-git clone https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10.git
+git clone https://github.com/vlad99764/ecommerce-laravel-10.git
 cd Complete-Ecommerce-in-laravel-10
 ```
 
@@ -114,13 +101,10 @@ php artisan serve
 ## 📩 Contact Me
 💼 Need a **Full Stack Laravel Developer**? Let's work together!
 
-📧 **Email:** Prajwal.iar@gmail.com  
-📲 **WhatsApp:** +977-9818441226  
+📧 **Email:** vladyslavpiankov@gmail.com  
 
-🔗 **[Hire Me on Upwork](https://www.upwork.com/freelancers/~01210bb2575a8c05a9)**
+🔗 **[Hire Me on Upwork](https://www.upwork.com/freelancers/~01a5e7d66c53d4dae3)**
 
-### ☕ Support My Work
-If you find this project helpful, consider [buying me a coffee](https://buymeacoffee.com/prajwalrai/support-my-work-complete-laravel-e-commerce-project). Your support helps maintain and improve this project! 🚀
 
 ---
 
